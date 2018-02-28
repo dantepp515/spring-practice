@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  redis:
+    host: localhost
+    port: 6380
+    pool:
+      min-idle: 1
+debug: true
