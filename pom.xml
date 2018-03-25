@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>spring-redis-practice</module>
+        <module>spring-dubbo-practice</module>
     </modules>
 
     <parent>
