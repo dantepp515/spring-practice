@@ -11,6 +11,7 @@ public class FirstDubboServiceImpl implements FirstDubboService {
         int key = 1/0;
         Object n = null;
         n.toString();
+        n.toString();
         return null;
     }
 }
