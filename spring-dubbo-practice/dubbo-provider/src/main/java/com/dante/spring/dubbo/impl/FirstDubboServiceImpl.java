@@ -8,6 +8,7 @@ public class FirstDubboServiceImpl implements FirstDubboService {
 
     @Override
     public String sayHello() {
+        int key = 1/0;
         return "hello";
     }
 }
